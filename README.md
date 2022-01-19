@@ -2,11 +2,12 @@
 Jogo clássico da cobrinha onde o jogador assume o papel da cobra e precisa ir encontrando "comida" em seu caminho, com o corpo da serpente ficando cada vez mais longo. 
 
 ## Tecnologias :computer:
-<div style="display: inline_block"><br> 
+<div style="display: inline_block">
  <img align="center" alt="Lops-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Lops-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Lops-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- </div> 
+</div> 
+ 
 ## Como Funciona :video_game: 
 `Objetivo`: Pegar a maior quantidade de quadrados coloridos.
 
