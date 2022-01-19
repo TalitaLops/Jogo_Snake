@@ -6,9 +6,8 @@ Jogo da cobrinha feito com HTML, CSS e JavaScript.
 
 `Como jogar`: Use os comandos :arrow_left:, :arrow_right:, :arrow_up:	e :arrow_down:.
 
-<link rel="stylesheet" href="https://jogosnake.netlify.app">
-##
 
+##
 <p align="center">
   <img src=""
 </p>
