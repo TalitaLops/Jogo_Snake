@@ -4,7 +4,7 @@ Jogo da cobra feito com HTML, CSS e JavaScript
 ##
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/89091011/150204863-14503c7c-786b-474f-bf57-b024ab710da9.png)
+  <img src="https://user-images.githubusercontent.com/89091011/150204863-14503c7c-786b-474f-bf57-b024ab710da9.png
 "</p>
   
  ##
