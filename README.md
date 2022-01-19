@@ -4,8 +4,8 @@ Jogo da cobra feito com HTML, CSS e JavaScript
 ##
 
 <p align="center">
-  <img src="https://mail.google.com/mail/u/1?ui=2&ik=4ccc140b84&attid=0.1&permmsgid=msg-a:r2592013746073891007&th=17e73e9c713f62b8&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ8s1tFcnyoEPY-U-3XTvC7RyfasCrGhZiWw984LjzhF_avl4t3X54srHUER-LreGbRUi-VE2lu2yFbsfMAPEE-iyxsjZtB-ZQBgdIUFemS7VBQfDlakeNsMUgw&disp=emb&realattid=ii_kylyuklp0">
-</p>
+  <img src="![image](https://user-images.githubusercontent.com/89091011/150204863-14503c7c-786b-474f-bf57-b024ab710da9.png)
+"</p>
   
  ##
   :heavy_check_mark: Projeto Finalizado :heavy_check_mark: 
