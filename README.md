@@ -11,7 +11,7 @@ Jogo clássico da cobrinha onde o jogador assume o papel da cobra e precisa ir e
 ## Como funciona :video_game: 
 `Objetivo`: Pegar a maior quantidade de quadrados coloridos.
 
-`Como jogar`: Use os comandos :arrow_left:, :arrow_right:, :arrow_up:	e :arrow_down:.
+`Como jogar`: Use os comandos :arrow_left:, :arrow_right:, :arrow_up:	e :arrow_down: no seu teclado para mover.
 
 ##
 <p align="center">
