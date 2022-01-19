@@ -18,7 +18,7 @@ Jogo clássico da cobrinha onde o jogador assume o papel da cobra e precisa ir e
   <img src="https://github.com/TalitaLops/Jogo_Snake/blob/main/images/Capturar.PNG?raw=true"
 </p>
  
- [![Game Badge(https://jogosnake.netlify.app)]
+ [![Game Badge(https://jogosnake.netlify.app)
  ##
    `Projeto Finalizado` :heavy_check_mark: 
  ##
