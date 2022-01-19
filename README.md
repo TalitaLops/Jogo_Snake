@@ -2,8 +2,9 @@
 Jogo da cobrinha feito com HTML, CSS e JavaScript.
 
 # :video_game: Como Funciona
--`Objetivo`: Pegar a maior quantidade de quadrados coloridos.
--`Como jogar`: Use os comandos : :arrow_left:, arrow_right:, :arrow_up:	e :arrow_down:.
+`Objetivo`: Pegar a maior quantidade de quadrados coloridos.
+
+`Como jogar`: Use os comandos : :arrow_left:, arrow_right:, :arrow_up:	e :arrow_down:.
 ##
 
 <p align="center">
