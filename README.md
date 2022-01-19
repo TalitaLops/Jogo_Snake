@@ -1,10 +1,12 @@
 # Jogo_Snake
-Jogo da cobra feito com HTML, CSS e JavaScript
+Jogo da cobrinha feito com HTML, CSS e JavaScript.
+## :hammer: Objetivo do Projeto
+-`Objetivo`: Pegar a maior quantidade de quadrados coloridos.
 
 ##
 
 <p align="center">
-  <img src="https://jogosnake.netlify.app"
+  <img src=""
 </p>
   
  ##
