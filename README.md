@@ -1,8 +1,9 @@
-# Jogo_Snake
+## Jogo_Snake :snake:
 Jogo da cobrinha feito com HTML, CSS e JavaScript.
-## :hammer: Objetivo do Projeto
--`Objetivo`: Pegar a maior quantidade de quadrados coloridos.
 
+# :video_game: Como Funciona
+`Objetivo`: Pegar a maior quantidade de quadrados coloridos.
+`Como jogar`: Use os comandos :arrow_right:, :arrow_left:, :arrow_up:	e :arrow_down:.
 ##
 
 <p align="center">
