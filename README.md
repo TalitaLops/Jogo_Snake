@@ -9,7 +9,7 @@ Jogo da cobrinha feito com HTML, CSS e JavaScript.
 
 ##
 <p align="center">
-  <img src=""
+  <img src="https://github.com/TalitaLops/Jogo_Snake/blob/main/images/Capturar.PNG?raw=true"
 </p>
   
  ##
