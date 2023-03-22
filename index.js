@@ -81,7 +81,7 @@ let helpers = {
     var chroma = (1 - Math.abs(2 * lightness - 1)) * saturation;
     var huePrime = hue / 60;
     var secondComponent = chroma * (1 - Math.abs((huePrime % 2) - 1));
-
+// o sinal ~~ é o Math.floor() porém só retorna os numero positivos, sem numeros decimais
     huePrime = ~~huePrime;
     var red;
     var green;
